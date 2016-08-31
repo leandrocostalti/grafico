@@ -2,14 +2,14 @@
 ﻿<html lang="pt-BR">
 	<head>
 		<meta charset="UTF-8">
-		<title>Grafico dinâmico</title>
+		<title>Grafico dinâmico com PHP e MySql</title>
 		<script language="javascript" src="js/fusioncharts3.js"></script>
 		<script language="javascript" src="js/fusioncharts.charts.js"></script>
 		<script language="javascript" src="js/fusioncharts.theme.fint.js"></script>
 	</head>
 	
 	<body>
-<br>
+
 		<?php
 			include 'conexao.php';
 			
